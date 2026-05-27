@@ -1,0 +1,13 @@
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(-45deg, #ff9a9e, #fecfef, #ec407a, #d81b60);
+    background-size: 400% 400%;
+    animation: pinkGradientAnimation 12s ease infinite;
+    overflow: hidden;
+}
+
